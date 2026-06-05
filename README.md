@@ -28,6 +28,10 @@ bash k9s.sh
 
 ## Q&A
 
-怎麼改 Room id?
+#### 怎麼改 Room id?
 
 ![P1](./P1.PNG)
+
+#### 怎麼改 AD ID
+
+![P2](./P2.PNG)
