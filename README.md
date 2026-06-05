@@ -25,3 +25,9 @@ CLI 進去後
 ```bash
 bash k9s.sh
 ```
+
+## Q&A
+
+怎麼改 Room id?
+
+![P1](./P1.PNG)
